@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build outputs
+dist/
+bin/
+obj/
+out/
+debug/
+release/
+
+# Angular specific
+.angular/
+
+# IDE files
+.vs/
+.vscode/
+*.sln.user
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Environmental / Secret files (Local)
+appsettings.Development.json
+
+# User documentation (Keep private/exclude from build repo)
+Documents/
+
+# OS generated files
+.DS_Store
+Thumbs.db
