@@ -161,3 +161,4 @@ C:\Users\islam\OneDrive\Desktop\TaskManager\Backend\TaskManagerAPI\obj\Debug\net
 C:\Users\islam\OneDrive\Desktop\TaskManager\Backend\TaskManagerAPI\obj\Debug\net10.0\TaskManagerAPI.pdb
 C:\Users\islam\OneDrive\Desktop\TaskManager\Backend\TaskManagerAPI\obj\Debug\net10.0\TaskManagerAPI.genruntimeconfig.cache
 C:\Users\islam\OneDrive\Desktop\TaskManager\Backend\TaskManagerAPI\obj\Debug\net10.0\ref\TaskManagerAPI.dll
+C:\Users\islam\OneDrive\Desktop\TaskManager\Backend\TaskManagerAPI\obj\Debug\net10.0\TaskManagerAPI.sourcelink.json

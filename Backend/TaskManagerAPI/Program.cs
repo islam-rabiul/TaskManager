@@ -11,6 +11,18 @@ var builder = WebApplication.CreateBuilder(args);
 // --- 1. CORE SERVICES ---
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+// 1. Define the policy
+builder.Services.AddCors(options => {
+    options.AddPolicy("AllowAngular",
+        policy => policy.WithOrigins("http://localhost:4200")
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
+});
+
+
+
+// 2. Use the policy
+
 
 // --- 2. SWAGGER CONFIGURATION (With JWT Support) ---
 
@@ -59,7 +71,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseCors("AllowAngular");
 app.UseHttpsRedirection();
 // Use our custom error handler
 app.ConfigureExceptionHandler();

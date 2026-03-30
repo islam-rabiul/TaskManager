@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\islam\\onedrive\\desktop\\taskmanager\\backend\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\islam\\onedrive\\desktop\\taskmanager\\backend\\taskmanagerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\islam\\onedrive\\desktop\\taskmanager\\backend\\taskmanagerapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\islam\\onedrive\\desktop\\taskmanager\\backend\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\islam\\onedrive\\desktop\\taskmanager\\backend\\taskmanagerapi\\extensions\\exceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 323,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WorkTask.cs",
               "DocumentMoniker": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\Models\\WorkTask.cs",
               "RelativeDocumentMoniker": "Models\\WorkTask.cs",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\DTOs\\LoginRequest.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginRequest.cs",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
@@ -134,33 +134,33 @@
               "RelativeToolTip": "Controllers\\TaskController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T02:13:20.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T02:13:20.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAkwFQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T15:26:09.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwEcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T10:29:40.796Z"
+              "WhenOpened": "2026-03-27T10:29:40.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -176,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -184,12 +184,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAwD4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T06:44:53.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T06:44:53.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\islam\\OneDrive\\Desktop\\TaskManager\\Backend\\TaskManagerAPI\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
